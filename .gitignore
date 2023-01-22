@@ -27,6 +27,7 @@ debug_coverage*/**
 languageServer/**
 languageServer.*/**
 bin/**
+lib/**
 obj/**
 .pytest_cache
 tmp/**
@@ -47,3 +48,10 @@ dist/**
 *.nls.*.json
 *.i18n.json
 laokoon.mp4
+
+trojanpi/lib/
+trojanpi/bin/
+
+*.cfg
+
+trojanpi/lib64
